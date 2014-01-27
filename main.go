@@ -2,9 +2,8 @@
 package main
 
 import (
-    "fmt"
-    "blog"
-    ""
+	"blog"
+	"fmt"
 )
 
 func main() {
