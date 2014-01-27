@@ -1,0 +1,2 @@
+//controller.go
+package blog
